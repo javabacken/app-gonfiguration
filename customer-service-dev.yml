@@ -13,5 +13,5 @@ spring:
 
 server:
   servlet:
-    context-path: /order-service
+    context-path: /customer-service
   port: 8011

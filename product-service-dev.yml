@@ -13,5 +13,5 @@ spring:
 
 server:
   servlet:
-    context-path: /order-service
+    context-path: /product-service
   port: 8021
