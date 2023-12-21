@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f1441d4-13de-4bab-995c-035cf265e2a9" name="Changes" comment="" />
+    <list default="true" id="1f1441d4-13de-4bab-995c-035cf265e2a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d27bad01-5d5f-42f7-8e6f-fd6d900cdcde.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d27bad01-5d5f-42f7-8e6f-fd6d900cdcde.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,11 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -67,10 +75,24 @@
       <workItem from="1702022174384" duration="1088000" />
       <workItem from="1702100072238" duration="1799000" />
       <workItem from="1702123320979" duration="251000" />
+      <workItem from="1702312921943" duration="9943000" />
+      <workItem from="1702709406495" duration="1340000" />
+      <workItem from="1703054921728" duration="2186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
